@@ -1,7 +1,7 @@
 ![Description](https://github.com/Chetu6474/Air_bnb_EDA_Project/blob/main/Airbnb.png)
 # **Air bnb EDA Project**
 
-##**📖 Project Overview**
+## **📖 Project Overview**
 This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, and Seaborn for data cleaning, visualization, and analysis.
 
 ---
