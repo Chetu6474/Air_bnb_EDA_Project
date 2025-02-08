@@ -6,7 +6,7 @@ This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to
 
 ---
 
-##**📌 Objective**
+## **📌 Objective**
 The goal of this project is to:
 - Analyze room types, prices, and availability across different neighborhoods.
 - Understand host behavior and listing patterns.
@@ -15,7 +15,7 @@ The goal of this project is to:
 
 ---
 
-##**📊 Dataset**
+## **📊 Dataset**
 The dataset contains 20,765 entries and 22 features, including:
 - `id`: Unique identifier for each listing
 - `name`: Title of the Airbnb listing
@@ -29,20 +29,20 @@ The dataset contains 20,765 entries and 22 features, including:
 
 ---
 
-##**🛠 Workflow**
-###**📜 Data Cleaning**
+## **🛠 Workflow**
+### **📜 Data Cleaning**
 - Handled missing data in `price`, `neighbourhood_group`, and `room_type` columns.
 - Converted `last_review` to a datetime object.
 - Capped listings with prices > $1,000 to avoid skewed visualizations.
 
-###**📜 Exploratory Data Analysis (EDA)**
+### **📜 Exploratory Data Analysis (EDA)**
 - **Room Type Distribution**: Used bar plots to show that entire homes/apartments are the most common.
 - **Neighborhood Price Analysis**: Boxplots revealed Manhattan has the highest average prices.
 - **Availability Trends**: Heatmaps demonstrated the correlation between price, availability, and reviews.
 - **Price Outliers**: Histograms showed that most listings fall in the $50-$300 range.
 - **Host Behavior**: Boxplots analyzed hosts with multiple listings.
 
-###**📜 Data Visualization**
+### **📜 Data Visualization**
 - **Pairplot**: Correlations among price, availability, and number of reviews.
 - **Heatmap**: Feature correlation visualization.
 - **Histograms & Boxplots**: Price outlier detection.
@@ -50,7 +50,7 @@ The dataset contains 20,765 entries and 22 features, including:
 
 ---
 
-##**🎯 Key Insights**
+## **🎯 Key Insights**
 - **Manhattan has the most expensive listings, followed by Brooklyn.**
 - **Entire homes/apartments are the most common but private rooms offer budget-friendly options.**
 - **Some hosts manage multiple listings, suggesting professional hosting.**
@@ -58,7 +58,7 @@ The dataset contains 20,765 entries and 22 features, including:
 
 ---
 
-##**🐍 Technologies Used**
+## **🐍 Technologies Used**
 - **Python**
 - **Pandas, NumPy**
 - **Matplotlib, Seaborn**
