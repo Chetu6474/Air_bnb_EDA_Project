@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Chetu6474/Air_bnb_EDA_Project/blob/main/Airbnb.png" alt="Description" width="200">
+  <img src="https://github.com/Chetu6474/Air_bnb_EDA_Project/blob/main/Airbnb.png" alt="Description" width="1000">
 </p>
-
-![Alt text](https://github.com/Chetu6474/Air_bnb_EDA_Project/blob/main/Airbnb.png)
 # Air bnb EDA Project
